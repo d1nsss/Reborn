@@ -1,6 +1,13 @@
-# Reborn
-"Reborn" is a dedicated project aimed at bringing new life to Tom Clancy's Rainbow Six Siege: Operation Red Crow.
-<img width="410" height="164" alt="image" src="https://github.com/user-attachments/assets/fe6f5db7-48d0-4f4a-807a-18772f81383e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/186e7bd8-d0ac-4e60-869e-bb7f6d0c8ef6" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a09843b-f2f0-4b9f-8d32-eeea0230a04b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0584a310-a2f2-4ef3-9abe-ea50dc26566e" />
+This tool downloads Rainbow Six Siege: Operation Red Crow, an older version of the game, and allows you to access LAN play.
+
+✅ Uses DepotDownloader (open-source) to get the game files from Steam
+
+✅ Includes a crack and custom launcher so you can play without Ubisoft servers
+
+✅ Lets you play multiplayer via Radmin VPN
+
+Everything is open-source except the launcher, which is closed source as it contains anti-cheat measures.
+
+Join the Discord for help or multiplayer:
+🔗 https://discord.gg/K59DzuKnkv<img width="410" height="164" alt="image" src="https://github.com/user-attachments/assets/2a8d1419-9486-4663-b982-35317c45d7c4" />
+<img width="409" height="163" alt="image" src="https://github.com/user-attachments/assets/5005d9fe-7b3b-410a-8ffd-791edbd48b33" />
