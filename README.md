@@ -1,4 +1,4 @@
-This tool downloads Rainbow Six Siege: Operation Red Crow, an older version of the game, and allows you to access LAN play.
+This tool allows you to download and play Rainbow Six Siege: Operation Red Crow, an older version of the game, and allows you to access LAN play.
 
 ✅ Uses DepotDownloader (open-source) to get the game files from Steam
 
