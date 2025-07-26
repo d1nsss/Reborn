@@ -6,8 +6,6 @@ This tool allows you to download and play Rainbow Six Siege: Operation Red Crow,
 
 ✅ Lets you play multiplayer via Radmin VPN
 
-Everything is open-source except the launcher, which is closed source as it contains anti-cheat measures.
-
 Join the Discord for help or multiplayer:
 🔗 https://discord.gg/K59DzuKnkv
 
